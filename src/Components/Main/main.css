@@ -1,0 +1,146 @@
+.techology {
+    font-family: Lato;
+    font-size: 36px;
+    font-weight: 600;
+    color: #000000;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 60px;
+}
+
+.mini_card_father {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+.mini_card_1 {
+    width: 255px;
+    text-align: center;
+}
+
+.bg_number {
+    position: absolute;
+}
+
+.cloud {
+    position: relative;
+    padding-top: 30px;
+    padding-left: 15px;
+}
+
+.cloud_txt {
+    font-family: Lato;
+    font-size: 18px;
+    color: #101010;
+    padding-bottom: 10px;
+    padding-top: 5px;
+}
+
+.cloud_paragraf {
+    font-family: Lato;
+    font-size: 12px;
+    color: #000000;
+    padding-bottom: 20px;
+}
+
+.cloud_2 {
+    position: relative;
+    padding-top: 30px;
+    padding-left: 23px;
+}
+
+.cloud_txt_2 {
+    font-family: Lato;
+    font-size: 18px;
+    color: #101010;
+    padding-bottom: 10px;
+    padding-top: 15px;
+    padding-left: 20px;
+}
+
+.cloud_paragraf_2 {
+    font-family: Lato;
+    font-size: 12px;
+    color: #000000;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+.cloud_3 {
+    position: relative;
+    padding-top: 40px;
+    padding-left: 35px;
+}
+
+.cloud_txt_3 {
+    font-family: Lato;
+    font-size: 18px;
+    color: #101010;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.cloud_paragraf_3 {
+    font-family: Lato;
+    font-size: 12px;
+    color: #000000;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+.cloud_4 {
+    position: relative;
+    padding-top: 40px;
+    padding-left: 25px;
+}
+
+.cloud_txt_4 {
+    font-family: Lato;
+    font-size: 18px;
+    color: #101010;
+    padding-bottom: 10px;
+    padding-top: 5px;
+    padding-left: 20px;
+}
+
+.cloud_paragraf_4 {
+    font-family: Lato;
+    font-size: 12px;
+    color: #000000;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+.main_end_bg {
+    width: 100%;
+    background-color: #ED4C5C;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 100px;
+    padding-top: 94px;
+    padding-bottom: 94px;
+    border-radius: 15px;
+    margin-bottom: 100px;
+}
+
+.money_main {
+    font-family: Lato;
+    font-size: 36px;
+    line-height: 43.2px;
+    color: white;
+}
+
+.money_paragraf {
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19.6px;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
